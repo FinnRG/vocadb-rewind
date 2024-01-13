@@ -10,7 +10,6 @@ import SongHitText from "./SongHitText"
 import GenreStats from "./GenreStats"
 import GenreText from "./GenreText"
 
-
 export const RewindVideo: React.FC<RewindSchema> = ({
   songHitsOnDays,
   favoriteGenreTags,

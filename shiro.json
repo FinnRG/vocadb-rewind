@@ -1,0 +1,2975 @@
+{
+  "songHitsOnDays": [
+    {
+      "date": "2023-08-10T00:00:00",
+      "count": 679
+    },
+    {
+      "date": "2023-10-01T00:00:00",
+      "count": 556
+    },
+    {
+      "date": "2023-10-11T00:00:00",
+      "count": 391
+    },
+    {
+      "date": "2023-01-28T00:00:00",
+      "count": 390
+    },
+    {
+      "date": "2023-07-29T00:00:00",
+      "count": 364
+    },
+    {
+      "date": "2023-07-01T00:00:00",
+      "count": 362
+    },
+    {
+      "date": "2023-08-23T00:00:00",
+      "count": 344
+    },
+    {
+      "date": "2023-08-03T00:00:00",
+      "count": 328
+    },
+    {
+      "date": "2023-08-29T00:00:00",
+      "count": 323
+    },
+    {
+      "date": "2023-02-14T00:00:00",
+      "count": 317
+    },
+    {
+      "date": "2023-06-24T00:00:00",
+      "count": 316
+    },
+    {
+      "date": "2023-08-17T00:00:00",
+      "count": 288
+    },
+    {
+      "date": "2023-04-26T00:00:00",
+      "count": 272
+    },
+    {
+      "date": "2023-06-06T00:00:00",
+      "count": 268
+    },
+    {
+      "date": "2023-06-18T00:00:00",
+      "count": 256
+    },
+    {
+      "date": "2023-04-04T00:00:00",
+      "count": 256
+    },
+    {
+      "date": "2023-07-08T00:00:00",
+      "count": 256
+    },
+    {
+      "date": "2023-05-06T00:00:00",
+      "count": 245
+    },
+    {
+      "date": "2023-09-03T00:00:00",
+      "count": 237
+    },
+    {
+      "date": "2023-01-04T00:00:00",
+      "count": 224
+    },
+    {
+      "date": "2023-05-18T00:00:00",
+      "count": 221
+    },
+    {
+      "date": "2023-07-15T00:00:00",
+      "count": 220
+    },
+    {
+      "date": "2023-07-27T00:00:00",
+      "count": 207
+    },
+    {
+      "date": "2023-04-15T00:00:00",
+      "count": 197
+    },
+    {
+      "date": "2023-05-20T00:00:00",
+      "count": 194
+    },
+    {
+      "date": "2023-07-31T00:00:00",
+      "count": 192
+    },
+    {
+      "date": "2023-09-24T00:00:00",
+      "count": 189
+    },
+    {
+      "date": "2023-07-30T00:00:00",
+      "count": 185
+    },
+    {
+      "date": "2023-04-22T00:00:00",
+      "count": 176
+    },
+    {
+      "date": "2023-09-09T00:00:00",
+      "count": 173
+    },
+    {
+      "date": "2023-05-04T00:00:00",
+      "count": 172
+    },
+    {
+      "date": "2023-07-23T00:00:00",
+      "count": 167
+    },
+    {
+      "date": "2023-07-11T00:00:00",
+      "count": 166
+    },
+    {
+      "date": "2023-05-26T00:00:00",
+      "count": 164
+    },
+    {
+      "date": "2023-07-22T00:00:00",
+      "count": 164
+    },
+    {
+      "date": "2023-01-08T00:00:00",
+      "count": 152
+    },
+    {
+      "date": "2023-05-30T00:00:00",
+      "count": 152
+    },
+    {
+      "date": "2023-10-02T00:00:00",
+      "count": 149
+    },
+    {
+      "date": "2023-08-16T00:00:00",
+      "count": 146
+    },
+    {
+      "date": "2023-05-14T00:00:00",
+      "count": 142
+    },
+    {
+      "date": "2023-03-15T00:00:00",
+      "count": 139
+    },
+    {
+      "date": "2023-05-17T00:00:00",
+      "count": 129
+    },
+    {
+      "date": "2023-04-08T00:00:00",
+      "count": 128
+    },
+    {
+      "date": "2023-01-13T00:00:00",
+      "count": 127
+    },
+    {
+      "date": "2023-07-04T00:00:00",
+      "count": 126
+    },
+    {
+      "date": "2023-03-08T00:00:00",
+      "count": 125
+    },
+    {
+      "date": "2023-05-19T00:00:00",
+      "count": 123
+    },
+    {
+      "date": "2023-06-11T00:00:00",
+      "count": 123
+    },
+    {
+      "date": "2023-08-31T00:00:00",
+      "count": 123
+    },
+    {
+      "date": "2023-09-28T00:00:00",
+      "count": 121
+    },
+    {
+      "date": "2023-03-30T00:00:00",
+      "count": 120
+    },
+    {
+      "date": "2023-03-21T00:00:00",
+      "count": 118
+    },
+    {
+      "date": "2023-03-11T00:00:00",
+      "count": 117
+    },
+    {
+      "date": "2023-09-12T00:00:00",
+      "count": 115
+    },
+    {
+      "date": "2023-04-18T00:00:00",
+      "count": 114
+    },
+    {
+      "date": "2023-09-19T00:00:00",
+      "count": 112
+    },
+    {
+      "date": "2023-03-25T00:00:00",
+      "count": 110
+    },
+    {
+      "date": "2023-03-16T00:00:00",
+      "count": 109
+    },
+    {
+      "date": "2023-06-10T00:00:00",
+      "count": 107
+    },
+    {
+      "date": "2023-08-14T00:00:00",
+      "count": 105
+    },
+    {
+      "date": "2023-05-07T00:00:00",
+      "count": 104
+    },
+    {
+      "date": "2023-12-10T00:00:00",
+      "count": 101
+    },
+    {
+      "date": "2023-12-13T00:00:00",
+      "count": 98
+    },
+    {
+      "date": "2023-05-13T00:00:00",
+      "count": 98
+    },
+    {
+      "date": "2023-04-27T00:00:00",
+      "count": 98
+    },
+    {
+      "date": "2023-09-11T00:00:00",
+      "count": 95
+    },
+    {
+      "date": "2023-08-07T00:00:00",
+      "count": 93
+    },
+    {
+      "date": "2023-03-12T00:00:00",
+      "count": 92
+    },
+    {
+      "date": "2023-04-28T00:00:00",
+      "count": 88
+    },
+    {
+      "date": "2023-03-18T00:00:00",
+      "count": 84
+    },
+    {
+      "date": "2023-04-24T00:00:00",
+      "count": 83
+    },
+    {
+      "date": "2023-09-15T00:00:00",
+      "count": 83
+    },
+    {
+      "date": "2023-06-04T00:00:00",
+      "count": 83
+    },
+    {
+      "date": "2023-07-05T00:00:00",
+      "count": 82
+    },
+    {
+      "date": "2023-03-13T00:00:00",
+      "count": 79
+    },
+    {
+      "date": "2023-09-17T00:00:00",
+      "count": 79
+    },
+    {
+      "date": "2023-03-03T00:00:00",
+      "count": 78
+    },
+    {
+      "date": "2023-04-03T00:00:00",
+      "count": 78
+    },
+    {
+      "date": "2023-12-12T00:00:00",
+      "count": 77
+    },
+    {
+      "date": "2023-01-14T00:00:00",
+      "count": 75
+    },
+    {
+      "date": "2023-09-30T00:00:00",
+      "count": 74
+    },
+    {
+      "date": "2023-05-12T00:00:00",
+      "count": 71
+    },
+    {
+      "date": "2023-02-11T00:00:00",
+      "count": 70
+    },
+    {
+      "date": "2023-01-25T00:00:00",
+      "count": 70
+    },
+    {
+      "date": "2023-05-02T00:00:00",
+      "count": 69
+    },
+    {
+      "date": "2023-04-21T00:00:00",
+      "count": 65
+    },
+    {
+      "date": "2023-09-22T00:00:00",
+      "count": 64
+    },
+    {
+      "date": "2023-09-10T00:00:00",
+      "count": 63
+    },
+    {
+      "date": "2023-10-15T00:00:00",
+      "count": 62
+    },
+    {
+      "date": "2023-02-18T00:00:00",
+      "count": 59
+    },
+    {
+      "date": "2023-03-02T00:00:00",
+      "count": 58
+    },
+    {
+      "date": "2023-03-22T00:00:00",
+      "count": 58
+    },
+    {
+      "date": "2023-04-23T00:00:00",
+      "count": 56
+    },
+    {
+      "date": "2023-02-06T00:00:00",
+      "count": 55
+    },
+    {
+      "date": "2023-08-01T00:00:00",
+      "count": 53
+    },
+    {
+      "date": "2023-05-16T00:00:00",
+      "count": 51
+    },
+    {
+      "date": "2023-03-10T00:00:00",
+      "count": 48
+    },
+    {
+      "date": "2023-08-08T00:00:00",
+      "count": 46
+    },
+    {
+      "date": "2023-06-12T00:00:00",
+      "count": 46
+    },
+    {
+      "date": "2023-02-22T00:00:00",
+      "count": 45
+    },
+    {
+      "date": "2023-06-29T00:00:00",
+      "count": 44
+    },
+    {
+      "date": "2023-03-05T00:00:00",
+      "count": 44
+    },
+    {
+      "date": "2023-03-17T00:00:00",
+      "count": 43
+    },
+    {
+      "date": "2023-05-31T00:00:00",
+      "count": 40
+    },
+    {
+      "date": "2023-08-22T00:00:00",
+      "count": 40
+    },
+    {
+      "date": "2023-09-16T00:00:00",
+      "count": 38
+    },
+    {
+      "date": "2023-08-02T00:00:00",
+      "count": 37
+    },
+    {
+      "date": "2023-06-08T00:00:00",
+      "count": 36
+    },
+    {
+      "date": "2023-02-03T00:00:00",
+      "count": 35
+    },
+    {
+      "date": "2023-03-09T00:00:00",
+      "count": 34
+    },
+    {
+      "date": "2023-03-04T00:00:00",
+      "count": 34
+    },
+    {
+      "date": "2023-09-04T00:00:00",
+      "count": 34
+    },
+    {
+      "date": "2023-05-28T00:00:00",
+      "count": 34
+    },
+    {
+      "date": "2023-04-05T00:00:00",
+      "count": 33
+    },
+    {
+      "date": "2023-05-27T00:00:00",
+      "count": 33
+    },
+    {
+      "date": "2023-01-15T00:00:00",
+      "count": 31
+    },
+    {
+      "date": "2023-07-06T00:00:00",
+      "count": 30
+    },
+    {
+      "date": "2023-12-02T00:00:00",
+      "count": 28
+    },
+    {
+      "date": "2023-10-29T00:00:00",
+      "count": 27
+    },
+    {
+      "date": "2023-10-22T00:00:00",
+      "count": 27
+    },
+    {
+      "date": "2023-05-05T00:00:00",
+      "count": 27
+    },
+    {
+      "date": "2023-11-06T00:00:00",
+      "count": 27
+    },
+    {
+      "date": "2023-01-26T00:00:00",
+      "count": 27
+    },
+    {
+      "date": "2023-09-25T00:00:00",
+      "count": 26
+    },
+    {
+      "date": "2023-09-13T00:00:00",
+      "count": 25
+    },
+    {
+      "date": "2023-01-03T00:00:00",
+      "count": 24
+    },
+    {
+      "date": "2023-07-13T00:00:00",
+      "count": 24
+    },
+    {
+      "date": "2023-02-04T00:00:00",
+      "count": 24
+    },
+    {
+      "date": "2023-10-07T00:00:00",
+      "count": 22
+    },
+    {
+      "date": "2023-03-06T00:00:00",
+      "count": 22
+    },
+    {
+      "date": "2023-07-02T00:00:00",
+      "count": 22
+    },
+    {
+      "date": "2023-04-10T00:00:00",
+      "count": 20
+    },
+    {
+      "date": "2023-12-30T00:00:00",
+      "count": 19
+    },
+    {
+      "date": "2023-11-25T00:00:00",
+      "count": 19
+    },
+    {
+      "date": "2023-08-12T00:00:00",
+      "count": 18
+    },
+    {
+      "date": "2023-06-30T00:00:00",
+      "count": 18
+    },
+    {
+      "date": "2023-06-17T00:00:00",
+      "count": 18
+    },
+    {
+      "date": "2023-08-26T00:00:00",
+      "count": 18
+    },
+    {
+      "date": "2023-10-13T00:00:00",
+      "count": 17
+    },
+    {
+      "date": "2023-04-06T00:00:00",
+      "count": 17
+    },
+    {
+      "date": "2023-09-06T00:00:00",
+      "count": 17
+    },
+    {
+      "date": "2023-10-26T00:00:00",
+      "count": 16
+    },
+    {
+      "date": "2023-02-05T00:00:00",
+      "count": 16
+    },
+    {
+      "date": "2023-08-06T00:00:00",
+      "count": 16
+    },
+    {
+      "date": "2023-12-04T00:00:00",
+      "count": 16
+    },
+    {
+      "date": "2023-11-19T00:00:00",
+      "count": 16
+    },
+    {
+      "date": "2023-03-27T00:00:00",
+      "count": 15
+    },
+    {
+      "date": "2023-09-20T00:00:00",
+      "count": 15
+    },
+    {
+      "date": "2023-07-12T00:00:00",
+      "count": 15
+    },
+    {
+      "date": "2023-11-04T00:00:00",
+      "count": 15
+    },
+    {
+      "date": "2023-05-08T00:00:00",
+      "count": 15
+    },
+    {
+      "date": "2023-11-02T00:00:00",
+      "count": 14
+    },
+    {
+      "date": "2023-11-22T00:00:00",
+      "count": 14
+    },
+    {
+      "date": "2023-11-24T00:00:00",
+      "count": 14
+    },
+    {
+      "date": "2023-03-07T00:00:00",
+      "count": 13
+    },
+    {
+      "date": "2023-09-27T00:00:00",
+      "count": 13
+    },
+    {
+      "date": "2023-08-27T00:00:00",
+      "count": 13
+    },
+    {
+      "date": "2023-06-19T00:00:00",
+      "count": 12
+    },
+    {
+      "date": "2023-08-20T00:00:00",
+      "count": 12
+    },
+    {
+      "date": "2023-04-14T00:00:00",
+      "count": 12
+    },
+    {
+      "date": "2023-06-21T00:00:00",
+      "count": 12
+    },
+    {
+      "date": "2023-11-28T00:00:00",
+      "count": 12
+    },
+    {
+      "date": "2023-08-28T00:00:00",
+      "count": 12
+    },
+    {
+      "date": "2023-11-26T00:00:00",
+      "count": 12
+    },
+    {
+      "date": "2023-11-07T00:00:00",
+      "count": 12
+    },
+    {
+      "date": "2023-04-12T00:00:00",
+      "count": 11
+    },
+    {
+      "date": "2023-09-29T00:00:00",
+      "count": 11
+    },
+    {
+      "date": "2023-10-19T00:00:00",
+      "count": 10
+    },
+    {
+      "date": "2023-02-08T00:00:00",
+      "count": 10
+    },
+    {
+      "date": "2023-12-29T00:00:00",
+      "count": 10
+    },
+    {
+      "date": "2023-11-16T00:00:00",
+      "count": 10
+    },
+    {
+      "date": "2023-05-01T00:00:00",
+      "count": 10
+    },
+    {
+      "date": "2023-11-27T00:00:00",
+      "count": 10
+    },
+    {
+      "date": "2023-06-25T00:00:00",
+      "count": 10
+    },
+    {
+      "date": "2023-01-16T00:00:00",
+      "count": 10
+    },
+    {
+      "date": "2023-10-27T00:00:00",
+      "count": 9
+    },
+    {
+      "date": "2023-01-18T00:00:00",
+      "count": 9
+    },
+    {
+      "date": "2023-02-15T00:00:00",
+      "count": 9
+    },
+    {
+      "date": "2023-12-31T00:00:00",
+      "count": 9
+    },
+    {
+      "date": "2023-02-26T00:00:00",
+      "count": 9
+    },
+    {
+      "date": "2023-10-23T00:00:00",
+      "count": 9
+    },
+    {
+      "date": "2023-09-23T00:00:00",
+      "count": 9
+    },
+    {
+      "date": "2023-10-09T00:00:00",
+      "count": 9
+    },
+    {
+      "date": "2023-08-04T00:00:00",
+      "count": 8
+    },
+    {
+      "date": "2023-05-15T00:00:00",
+      "count": 8
+    },
+    {
+      "date": "2023-10-21T00:00:00",
+      "count": 8
+    },
+    {
+      "date": "2023-11-20T00:00:00",
+      "count": 8
+    },
+    {
+      "date": "2023-05-25T00:00:00",
+      "count": 8
+    },
+    {
+      "date": "2023-04-20T00:00:00",
+      "count": 8
+    },
+    {
+      "date": "2023-12-06T00:00:00",
+      "count": 8
+    },
+    {
+      "date": "2023-01-12T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-01-02T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-08-30T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-11-08T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-10-06T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-10-24T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-04-13T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-11-10T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-06-20T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-09-26T00:00:00",
+      "count": 7
+    },
+    {
+      "date": "2023-03-26T00:00:00",
+      "count": 6
+    },
+    {
+      "date": "2023-05-21T00:00:00",
+      "count": 6
+    },
+    {
+      "date": "2023-06-26T00:00:00",
+      "count": 6
+    },
+    {
+      "date": "2023-12-09T00:00:00",
+      "count": 6
+    },
+    {
+      "date": "2023-07-17T00:00:00",
+      "count": 6
+    },
+    {
+      "date": "2023-05-10T00:00:00",
+      "count": 6
+    },
+    {
+      "date": "2023-02-07T00:00:00",
+      "count": 6
+    },
+    {
+      "date": "2023-08-19T00:00:00",
+      "count": 6
+    },
+    {
+      "date": "2023-04-02T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-06-03T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-12-05T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-06-15T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-02-10T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-01-22T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-10-25T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-10-10T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-06-27T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-11-09T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-06-09T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-11-14T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-03-23T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-11-11T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-12-14T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-10-31T00:00:00",
+      "count": 5
+    },
+    {
+      "date": "2023-11-17T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-08-11T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-09-18T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-12-08T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-06-22T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-12-26T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-12-11T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-08-18T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-01-31T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-01-29T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-07-16T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-01-27T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-04-01T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-09-05T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-10-30T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-03-24T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-02-27T00:00:00",
+      "count": 4
+    },
+    {
+      "date": "2023-07-18T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-03-31T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-01-24T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-04-11T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-02-28T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-12-01T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-10-04T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-10-05T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-06-14T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-05-29T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-09-21T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-11-12T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-03-19T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-01-09T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-02-23T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-10-14T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-02-09T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-04-09T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-09-02T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-01-05T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-01-30T00:00:00",
+      "count": 3
+    },
+    {
+      "date": "2023-03-14T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-04-19T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-07-03T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-07-10T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-12-22T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-07-20T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-08-05T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-06-28T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-07-14T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-02-16T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-02-02T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-08-25T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-03-01T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-05-09T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-06-05T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-01-17T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-07-25T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-11-29T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-01-20T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-01-01T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-03-20T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-01-07T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-02-19T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-09-07T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-11-01T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-10-12T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-03-29T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-12-17T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-10-28T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-04-07T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-06-07T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-12-21T00:00:00",
+      "count": 2
+    },
+    {
+      "date": "2023-12-20T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-07-19T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-07-28T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-09-14T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-10-16T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-11-03T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-06-02T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-07-07T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-06-23T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-07-09T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-04-25T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-04-29T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-11-18T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-12-18T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-01-23T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-02-01T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-02-12T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-01-11T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-09-01T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-05-24T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-12-24T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-11-21T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-01-06T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-04-16T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-08-15T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-10-03T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-10-08T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-01-10T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-05-23T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-02-24T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-11-30T00:00:00",
+      "count": 1
+    },
+    {
+      "date": "2023-12-23T00:00:00",
+      "count": 1
+    }
+  ],
+  "favoriteSongs": [
+    {
+      "artistString": "Minamo Minato feat. KAFU",
+      "createDate": "2023-03-15T08:01:59.487",
+      "defaultName": "夢の中でも僕だけが苦しいのかな.",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 2,
+      "id": 482509,
+      "lengthSeconds": 108,
+      "name": "夢の中でも僕だけが苦しいのかな.",
+      "publishDate": "2023-03-04T00:00:00Z",
+      "pvs": [
+        {
+          "author": "Horse",
+          "disabled": false,
+          "id": 740433,
+          "length": 108,
+          "name": "夢の中でも僕だけが苦しいのかな. / 水面湊人",
+          "publishDate": "2023-03-04T00:00:00",
+          "pvId": "3U8CzEP8sXg",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/3U8CzEP8sXg/default.jpg",
+          "url": "https://youtu.be/3U8CzEP8sXg"
+        }
+      ],
+      "pvServices": "Youtube",
+      "ratingScore": 12,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 1
+    },
+    {
+      "artistString": "picco feat. Hatsune Miku V4X (Original)",
+      "createDate": "2023-03-19T04:32:35.727",
+      "defaultName": "image",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 4,
+      "id": 483817,
+      "lengthSeconds": 155,
+      "name": "image",
+      "publishDate": "2023-03-19T00:00:00Z",
+      "pvs": [
+        {
+          "author": "picco",
+          "disabled": false,
+          "id": 742298,
+          "length": 155,
+          "name": "image / 初音ミク",
+          "publishDate": "2023-03-19T00:00:00",
+          "pvId": "sm41953290",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41953290/41953290.65047380",
+          "url": "http://www.nicovideo.jp/watch/sm41953290"
+        },
+        {
+          "author": "picco",
+          "disabled": false,
+          "id": 745318,
+          "length": 156,
+          "name": "picco - image feat.初音ミク [Bass House]",
+          "publishDate": "2023-03-23T00:00:00",
+          "pvId": "GvpzAArhdJU",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/GvpzAArhdJU/default.jpg",
+          "url": "https://youtu.be/GvpzAArhdJU"
+        },
+        {
+          "author": "picco",
+          "disabled": false,
+          "id": 755541,
+          "length": 155,
+          "name": "image",
+          "publishDate": "2023-03-23T00:00:00",
+          "pvId": "1475596117 picco0817/image",
+          "service": "SoundCloud",
+          "pvType": "Original",
+          "thumbUrl": "https://i1.sndcdn.com/artworks-iblVes13VygCdvxC-zyhPiA-large.jpg",
+          "url": "http://soundcloud.com/picco0817/image"
+        },
+        {
+          "author": "picco0817",
+          "disabled": false,
+          "extendedMetadata": {
+            "json": "{\"Aid\":438876448,\"Bvid\":\"BV17L41197CA\",\"Cid\":1067178402}"
+          },
+          "id": 755542,
+          "length": 156,
+          "name": "【初音ミク】image【picco】",
+          "publishDate": "2023-03-23T00:00:00",
+          "pvId": "438876448",
+          "service": "Bilibili",
+          "pvType": "Original",
+          "thumbUrl": "http://i1.hdslb.com/bfs/archive/2b7fa886143e0cbc4ef42ceecef2e14d3c3883dc.jpg",
+          "url": "https://www.bilibili.com/video/av438876448"
+        },
+        {
+          "author": "picco",
+          "disabled": false,
+          "extendedMetadata": {
+            "json": "{\"Url\":\"https://nextlight.bandcamp.com/track/image\"}"
+          },
+          "id": 762968,
+          "length": 154,
+          "name": "picco - picco - image",
+          "publishDate": "2023-05-02T00:00:00",
+          "pvId": "2186577511",
+          "service": "Bandcamp",
+          "pvType": "Original",
+          "thumbUrl": "https://f4.bcbits.com/img/a3082053491_5.jpg",
+          "url": "https://nextlight.bandcamp.com/track/image"
+        },
+        {
+          "author": "Picco - Topic",
+          "disabled": false,
+          "id": 779672,
+          "length": 155,
+          "name": "image",
+          "publishDate": "2023-05-25T00:00:00",
+          "pvId": "IGqXvL2M2_M",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/IGqXvL2M2_M/default.jpg",
+          "url": "https://youtu.be/IGqXvL2M2_M"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube, SoundCloud, Bilibili, Bandcamp",
+      "ratingScore": 20,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 11
+    },
+    {
+      "artistString": "Yoshida Yassei feat. Kaai Yuki",
+      "createDate": "2023-03-19T04:34:27.14",
+      "defaultName": "氷解",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 3,
+      "id": 483819,
+      "lengthSeconds": 178,
+      "name": "Being Cleared",
+      "publishDate": "2023-03-19T00:00:00Z",
+      "pvs": [
+        {
+          "author": "吉田夜世",
+          "disabled": false,
+          "id": 742300,
+          "length": 178,
+          "name": "氷解 - 歌愛ユキ[吉田夜世]",
+          "publishDate": "2023-03-19T00:00:00",
+          "pvId": "sm41938680",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41938680/41938680.10283600",
+          "url": "http://www.nicovideo.jp/watch/sm41938680"
+        },
+        {
+          "author": "吉田夜世",
+          "disabled": false,
+          "id": 742302,
+          "length": 179,
+          "name": "氷解 - 歌愛ユキ[吉田夜世]",
+          "publishDate": "2023-03-17T00:00:00",
+          "pvId": "lD8ToPpljI4",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/lD8ToPpljI4/default.jpg",
+          "url": "https://youtu.be/lD8ToPpljI4"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 17,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 4
+    },
+    {
+      "artistString": "Yosukenchos feat. Yuzuki Yukari Rei",
+      "createDate": "2023-03-19T04:58:20.723",
+      "defaultName": "Distance",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 2,
+      "id": 483821,
+      "lengthSeconds": 292,
+      "name": "Distance",
+      "publishDate": "2023-03-19T00:00:00Z",
+      "pvs": [
+        {
+          "author": "Yosukenchos",
+          "disabled": false,
+          "id": 742303,
+          "length": 292,
+          "name": "Distance / Yosukenchos feat. 結月ゆかり",
+          "publishDate": "2023-03-19T00:00:00",
+          "pvId": "sm41955045",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41955045/41955045.22336370",
+          "url": "http://www.nicovideo.jp/watch/sm41955045"
+        },
+        {
+          "author": "Yosukenchos",
+          "disabled": false,
+          "id": 748439,
+          "length": 293,
+          "name": "Distance / Yosukenchos feat. 結月ゆかり",
+          "publishDate": "2023-03-25T00:00:00",
+          "pvId": "qtQUWyNqjOs",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/qtQUWyNqjOs/default.jpg",
+          "url": "https://youtu.be/qtQUWyNqjOs"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 12,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 3
+    },
+    {
+      "artistString": "IQYU feat. KAFU",
+      "createDate": "2023-03-19T09:53:32.483",
+      "defaultName": "え？？？",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 4,
+      "id": 483883,
+      "lengthSeconds": 213,
+      "name": "Eh???",
+      "publishDate": "2023-03-19T00:00:00Z",
+      "pvs": [
+        {
+          "author": "IQYU",
+          "disabled": false,
+          "id": 742397,
+          "length": 213,
+          "name": "「え？？？」IQYU feat. 可不",
+          "publishDate": "2023-03-19T00:00:00",
+          "pvId": "sm41946592",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41946592/41946592.45412264",
+          "url": "http://www.nicovideo.jp/watch/sm41946592"
+        },
+        {
+          "author": "IQYU channel",
+          "disabled": false,
+          "id": 744205,
+          "length": 213,
+          "name": "「え？？？」IQYU feat. 可不",
+          "publishDate": "2023-03-18T00:00:00",
+          "pvId": "3hD3ZrtJst4",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/3hD3ZrtJst4/default.jpg",
+          "url": "https://youtu.be/3hD3ZrtJst4"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 16,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 5
+    },
+    {
+      "artistString": "Clean Tears feat. Hatsune Miku V4X (Soft), Hatsune Miku V4X (Sweet)",
+      "createDate": "2023-03-20T15:40:49.043",
+      "defaultName": "スコーピオンガールの貴重な捕食シーン (Clean Tears Remix)",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 2,
+      "id": 484721,
+      "lengthSeconds": 200,
+      "name": "Scorpion Girl (Clean Tears Remix)",
+      "originalVersionId": 443688,
+      "publishDate": "2023-03-19T00:00:00Z",
+      "pvs": [
+        {
+          "author": "Clean Tears",
+          "disabled": false,
+          "id": 743572,
+          "length": 200,
+          "name": "スコーピオンガールの貴重な捕食シーン(Clean Tears Remix)【リミックス】",
+          "publishDate": "2023-03-19T00:00:00",
+          "pvId": "sm41948946",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41948946/41948946.30061010",
+          "url": "http://www.nicovideo.jp/watch/sm41948946"
+        }
+      ],
+      "pvServices": "NicoNicoDouga",
+      "ratingScore": 16,
+      "songType": "Remix",
+      "status": "Finished",
+      "version": 3
+    },
+    {
+      "artistString": "Halv feat. Kagamine Rin",
+      "createDate": "2023-03-21T22:59:10.007",
+      "defaultName": "炉心融解",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 2,
+      "id": 485250,
+      "lengthSeconds": 244,
+      "name": "Meltdown",
+      "originalVersionId": 3022,
+      "publishDate": "2023-03-18T00:00:00Z",
+      "pvs": [
+        {
+          "author": "Halv",
+          "disabled": false,
+          "id": 744410,
+          "length": 244,
+          "name": "炉心融解 (Halv Remix) / 鏡音リン",
+          "publishDate": "2023-03-19T00:00:00",
+          "pvId": "sm41952005",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41952005/41952005.54427013",
+          "url": "http://www.nicovideo.jp/watch/sm41952005"
+        },
+        {
+          "author": "Halv / ハル",
+          "disabled": false,
+          "id": 744417,
+          "length": 245,
+          "name": "iroha(sasaki) feat.鏡音リン - 炉心融解 (Halv Remix) 【#ボカコレ2023春 】",
+          "publishDate": "2023-03-18T00:00:00",
+          "pvId": "Zjfl_h6A5nE",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/Zjfl_h6A5nE/default.jpg",
+          "url": "https://youtu.be/Zjfl_h6A5nE"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 12,
+      "songType": "Remix",
+      "status": "Finished",
+      "version": 3
+    },
+    {
+      "artistString": "HSP feat. Hatsune Miku",
+      "createDate": "2023-04-15T17:10:25.71",
+      "defaultName": "Lost Forever",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 7,
+      "id": 492498,
+      "lengthSeconds": 208,
+      "name": "Lost Forever",
+      "publishDate": "2023-04-15T00:00:00Z",
+      "pvs": [
+        {
+          "author": "かんざきひろ / Kanzaki Hiro",
+          "disabled": false,
+          "id": 756728,
+          "length": 208,
+          "name": "【初音ミク】Lost Forever【オリジナル】",
+          "publishDate": "2023-04-15T00:00:00",
+          "pvId": "wsym_GHzUGs",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/wsym_GHzUGs/default.jpg",
+          "url": "https://youtu.be/wsym_GHzUGs"
+        },
+        {
+          "author": "鼻そうめんP",
+          "disabled": false,
+          "id": 756743,
+          "length": 207,
+          "name": "【初音ミク】Lost Forever【オリジナル】",
+          "publishDate": "2023-04-15T00:00:00",
+          "pvId": "sm42081746",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42081746/42081746.69131675",
+          "url": "http://www.nicovideo.jp/watch/sm42081746"
+        },
+        {
+          "author": "HSP / Kanzaki Hiro",
+          "disabled": false,
+          "id": 756947,
+          "length": 207,
+          "name": "Kanzaki Hiro / HSP feat. Hatsune Miku - Lost Forever",
+          "publishDate": "2023-04-15T00:00:00",
+          "pvId": "1493289724 user-658062794/kanzaki-hiro-hsp-feat-hatsune-miku-lost-forever",
+          "service": "SoundCloud",
+          "pvType": "Original",
+          "thumbUrl": "https://i1.sndcdn.com/artworks-VNgk8HeyCscsnu9J-nsxc3A-large.jpg",
+          "url": "http://soundcloud.com/user-658062794/kanzaki-hiro-hsp-feat-hatsune-miku-lost-forever"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube, SoundCloud",
+      "ratingScore": 41,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 5
+    },
+    {
+      "artistString": "\"Who\" feat. Chis-A",
+      "createDate": "2023-06-13T20:20:29.053",
+      "defaultName": "もう、どうにでもなれよ。",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 4,
+      "id": 506278,
+      "lengthSeconds": 139,
+      "name": "Screw it.",
+      "publishDate": "2023-06-12T00:00:00Z",
+      "pvs": [
+        {
+          "author": "「誰」",
+          "disabled": false,
+          "id": 779013,
+          "length": 139,
+          "name": "もう、どうにでもなれよ。 / 知声 - 「誰」",
+          "publishDate": "2023-06-12T00:00:00",
+          "pvId": "vEQOO1aDwAM",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/vEQOO1aDwAM/default.jpg",
+          "url": "https://youtu.be/vEQOO1aDwAM"
+        },
+        {
+          "author": "「誰」",
+          "disabled": false,
+          "id": 779014,
+          "length": 138,
+          "name": "もう、どうにでもなれよ。 / 知声 - 「誰」",
+          "publishDate": "2023-06-12T00:00:00",
+          "pvId": "sm42343587",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42343587/42343587.55652798",
+          "url": "http://www.nicovideo.jp/watch/sm42343587"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 14,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 2
+    },
+    {
+      "artistString": "胡乱リユ feat. Hatsune Miku",
+      "createDate": "2023-03-18T21:18:47.01",
+      "defaultName": "ワタシハダレ^^?",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 2,
+      "id": 483475,
+      "lengthSeconds": 205,
+      "name": "ワタシハダレ^^?",
+      "publishDate": "2023-03-18T00:00:00Z",
+      "pvs": [
+        {
+          "author": "胡乱リユ",
+          "disabled": false,
+          "id": 741846,
+          "length": 205,
+          "name": "ワタシハダレ^^?/ 初音ミク",
+          "publishDate": "2023-03-18T00:00:00",
+          "pvId": "sm41948397",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41948397/41948397.41115424",
+          "url": "http://www.nicovideo.jp/watch/sm41948397"
+        },
+        {
+          "author": "胡乱リユ",
+          "disabled": false,
+          "id": 749822,
+          "length": 206,
+          "name": "ワタシハダレ^^? / 初音ミク",
+          "publishDate": "2023-03-21T00:00:00",
+          "pvId": "NmOQx40BEbI",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/NmOQx40BEbI/default.jpg",
+          "url": "https://youtu.be/NmOQx40BEbI"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 6,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 6
+    },
+    {
+      "artistString": "lime feat. KAFU, Hatsune Miku",
+      "createDate": "2023-03-18T17:36:59.357",
+      "defaultName": "&ever",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 2,
+      "id": 483365,
+      "lengthSeconds": 200,
+      "name": "&ever",
+      "publishDate": "2023-03-18T00:00:00Z",
+      "pvs": [
+        {
+          "author": "lime",
+          "disabled": false,
+          "id": 741685,
+          "length": 200,
+          "name": "&ever / 可不&初音ミク",
+          "publishDate": "2023-03-18T00:00:00",
+          "pvId": "sm41937534",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41937534/41937534.55849084",
+          "url": "http://www.nicovideo.jp/watch/sm41937534"
+        },
+        {
+          "author": "lime",
+          "disabled": false,
+          "id": 741686,
+          "length": 201,
+          "name": "&ever / 可不&初音ミク",
+          "publishDate": "2023-03-16T00:00:00",
+          "pvId": "xmZ08qcJgL0",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/xmZ08qcJgL0/default.jpg",
+          "url": "https://youtu.be/xmZ08qcJgL0"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 10,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 2
+    },
+    {
+      "artistString": "Kaede Haruto feat. Kaai Yuki",
+      "createDate": "2023-02-24T17:09:40.17",
+      "defaultName": "優雅",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 2,
+      "id": 478017,
+      "lengthSeconds": 201,
+      "name": "Elegance",
+      "publishDate": "2023-02-24T00:00:00Z",
+      "pvs": [
+        {
+          "author": "楓遥登 official",
+          "disabled": true,
+          "id": 733007,
+          "length": 201,
+          "name": "優雅/歌愛ユキ【official music video】",
+          "publishDate": "2023-02-24T00:00:00",
+          "pvId": "pl8uvNWfBNg",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/pl8uvNWfBNg/default.jpg",
+          "url": "https://youtu.be/pl8uvNWfBNg"
+        },
+        {
+          "author": "楓遥登",
+          "disabled": false,
+          "id": 733254,
+          "length": 200,
+          "name": "優雅/歌愛ユキ【official music video】",
+          "publishDate": "2023-02-25T00:00:00",
+          "pvId": "sm41832026",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41832026/41832026.23095220",
+          "url": "http://www.nicovideo.jp/watch/sm41832026"
+        },
+        {
+          "author": "HarutoKaede - Topic",
+          "disabled": false,
+          "id": 754531,
+          "length": 201,
+          "name": "優雅",
+          "publishDate": "2023-03-03T00:00:00",
+          "pvId": "XQrxYfBTHx4",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/XQrxYfBTHx4/default.jpg",
+          "url": "https://youtu.be/XQrxYfBTHx4"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 10,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 8
+    },
+    {
+      "artistString": "pepensow feat. Hatsune Miku",
+      "createDate": "2023-01-11T22:11:20.253",
+      "defaultName": "Lonely Land",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 2,
+      "id": 467261,
+      "lengthSeconds": 228,
+      "name": "Lonely Land",
+      "publishDate": "2023-01-11T00:00:00Z",
+      "pvs": [
+        {
+          "author": "pepensow",
+          "disabled": false,
+          "id": 715443,
+          "length": 228,
+          "name": "初音ミク // Lonely Land",
+          "publishDate": "2023-01-11T00:00:00",
+          "pvId": "sm41638159",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41638159/41638159.24204165",
+          "url": "http://www.nicovideo.jp/watch/sm41638159"
+        },
+        {
+          "author": "pepensow",
+          "disabled": false,
+          "id": 715444,
+          "length": 229,
+          "name": "pepensow ft.初音ミク // Lonely Land",
+          "publishDate": "2023-01-11T00:00:00",
+          "pvId": "SJtzAwrKovk",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/SJtzAwrKovk/default.jpg",
+          "url": "https://youtu.be/SJtzAwrKovk"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 8,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 3
+    },
+    {
+      "artistString": "inabakumori feat. Kaai Yuki",
+      "createDate": "2023-01-13T13:30:41.36",
+      "defaultName": "フロートプレイ",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 11,
+      "id": 467612,
+      "lengthSeconds": 243,
+      "name": "Float Play",
+      "publishDate": "2023-01-13T00:00:00Z",
+      "pvs": [
+        {
+          "author": "稲葉曇",
+          "disabled": false,
+          "id": 716034,
+          "length": 243,
+          "name": "稲葉曇『フロートプレイ』Vo. 歌愛ユキ",
+          "publishDate": "2023-01-13T00:00:00",
+          "pvId": "NRQRC_0ZQ00",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/NRQRC_0ZQ00/default.jpg",
+          "url": "https://youtu.be/NRQRC_0ZQ00"
+        },
+        {
+          "author": "稲葉曇",
+          "disabled": false,
+          "id": 716035,
+          "length": 242,
+          "name": "稲葉曇『フロートプレイ』Vo. 歌愛ユキ",
+          "publishDate": "2023-01-13T00:00:00",
+          "pvId": "sm41645109",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41645109/41645109.79052036",
+          "url": "http://www.nicovideo.jp/watch/sm41645109"
+        },
+        {
+          "author": "稲葉雲",
+          "disabled": false,
+          "id": 716036,
+          "length": 242,
+          "name": "フロートプレイ",
+          "publishDate": "2023-12-10T00:00:00",
+          "pvId": "1399761487 daoxieyun/neqz1itaggkx",
+          "service": "SoundCloud",
+          "pvType": "Original",
+          "thumbUrl": "https://i1.sndcdn.com/artworks-lXQb8UCxGbOP-0-large.jpg",
+          "url": "http://soundcloud.com/daoxieyun/neqz1itaggkx"
+        },
+        {
+          "author": "稲葉曇",
+          "disabled": false,
+          "extendedMetadata": {
+            "json": "{\"Aid\":477854939,\"Bvid\":\"BV1FK411y775\",\"Cid\":964359746}"
+          },
+          "id": 716044,
+          "length": 244,
+          "name": "稲葉曇『フロートプレイ』Vo. 歌愛ユキ / 稻叶昙 - Float Play (Vo. 歌爱雪)",
+          "publishDate": "2023-01-13T00:00:00",
+          "pvId": "477854939",
+          "service": "Bilibili",
+          "pvType": "Original",
+          "thumbUrl": "http://i2.hdslb.com/bfs/archive/cbab38c3662e855b51eb519cd7e992963a85a3db.jpg",
+          "url": "https://www.bilibili.com/video/av477854939"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube, SoundCloud, Bilibili",
+      "ratingScore": 73,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 7
+    },
+    {
+      "artistString": "Polar Bear Eraser feat. Hatsune Miku",
+      "createDate": "2023-01-08T01:52:30.427",
+      "defaultName": "アーティフィシャル エンジン",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 2,
+      "id": 464330,
+      "lengthSeconds": 140,
+      "name": "Artificial Engine",
+      "publishDate": "2023-01-07T00:00:00Z",
+      "pvs": [
+        {
+          "author": "シロクマ消しゴム",
+          "disabled": false,
+          "id": 711846,
+          "length": 140,
+          "name": "アーティフィシャル エンジン/シロクマ消しゴムfeat.初音ミク",
+          "publishDate": "2023-01-07T00:00:00",
+          "pvId": "_hPzlRcKXdw",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/_hPzlRcKXdw/default.jpg",
+          "url": "https://youtu.be/_hPzlRcKXdw"
+        },
+        {
+          "author": "シロクマ消しゴム",
+          "disabled": false,
+          "id": 711848,
+          "length": 139,
+          "name": "アーティフィシャル エンジン/シロクマ消しゴムfeat.初音ミク",
+          "publishDate": "2023-01-07T00:00:00",
+          "pvId": "sm41619241",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41619241/41619241.11976542",
+          "url": "http://www.nicovideo.jp/watch/sm41619241"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 8,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 2
+    },
+    {
+      "artistString": "KineticNinja feat. Hatsune Miku",
+      "createDate": "2023-01-19T18:59:17.597",
+      "defaultName": "Tokyo Future Girl (KineticNinja Remix)",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 1,
+      "id": 469311,
+      "lengthSeconds": 179,
+      "name": "Tokyo Future Girl (KineticNinja Remix)",
+      "originalVersionId": 287546,
+      "publishDate": "2023-01-18T00:00:00Z",
+      "pvs": [
+        {
+          "author": "KineticNinja",
+          "disabled": false,
+          "id": 718865,
+          "length": 179,
+          "name": "picco - Tokyo Future Girl feat.初音ミク (KineticNinja Remix)",
+          "publishDate": "2023-01-18T00:00:00",
+          "pvId": "sm41669181",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41669181/41669181.92065077",
+          "url": "http://www.nicovideo.jp/watch/sm41669181"
+        },
+        {
+          "author": "KineticNinja",
+          "disabled": false,
+          "id": 718866,
+          "length": 180,
+          "name": "picco - Tokyo Future Girl feat.初音ミク (KineticNinja Remix)",
+          "publishDate": "2023-01-18T00:00:00",
+          "pvId": "crkoOo2PwXs",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/crkoOo2PwXs/default.jpg",
+          "url": "https://youtu.be/crkoOo2PwXs"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 5,
+      "songType": "Remix",
+      "status": "Finished",
+      "version": 2
+    },
+    {
+      "artistString": "TKN feat. Hatsune Miku",
+      "createDate": "2023-01-20T12:11:43.287",
+      "defaultName": "Falling",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 4,
+      "id": 469575,
+      "lengthSeconds": 223,
+      "name": "Falling",
+      "publishDate": "2023-01-20T00:00:00Z",
+      "pvs": [
+        {
+          "author": "TKNMusic",
+          "disabled": false,
+          "id": 719294,
+          "length": 223,
+          "name": "TKN - Falling ft. 初音ミク",
+          "publishDate": "2023-01-20T00:00:00",
+          "pvId": "esrH23mwHQg",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/esrH23mwHQg/default.jpg",
+          "url": "https://youtu.be/esrH23mwHQg"
+        },
+        {
+          "author": "TKN",
+          "disabled": false,
+          "id": 719320,
+          "length": 222,
+          "name": "Falling ft. 初音ミク",
+          "publishDate": "2023-01-20T00:00:00",
+          "pvId": "sm41672481",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41672481/41672481.553043",
+          "url": "http://www.nicovideo.jp/watch/sm41672481"
+        },
+        {
+          "author": "TKN",
+          "disabled": false,
+          "extendedMetadata": {
+            "json": "{\"Url\":\"https://109music.bandcamp.com/track/falling\"}"
+          },
+          "id": 719325,
+          "length": 222,
+          "name": "TKN - Falling",
+          "publishDate": "2023-01-20T00:00:00",
+          "pvId": "1257607796",
+          "service": "Bandcamp",
+          "pvType": "Original",
+          "thumbUrl": "https://f4.bcbits.com/img/a0266983649_5.jpg",
+          "url": "https://109music.bandcamp.com/track/falling"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube, Bandcamp",
+      "ratingScore": 28,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 4
+    },
+    {
+      "artistString": "Wisca feat. RIME",
+      "createDate": "2023-01-30T22:50:53.84",
+      "defaultName": "足りないわ",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 1,
+      "id": 472141,
+      "lengthSeconds": 187,
+      "name": "Tarinai wa",
+      "publishDate": "2023-01-29T00:00:00Z",
+      "pvs": [
+        {
+          "author": "Wisca",
+          "disabled": false,
+          "id": 723419,
+          "length": 187,
+          "name": "足りないわ／裏命",
+          "publishDate": "2023-01-29T00:00:00",
+          "pvId": "yKPZi_TQY_I",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/yKPZi_TQY_I/default.jpg",
+          "url": "https://youtu.be/yKPZi_TQY_I"
+        },
+        {
+          "author": "Wisca",
+          "disabled": false,
+          "id": 723420,
+          "length": 186,
+          "name": "足りないわ／裏命",
+          "publishDate": "2023-01-29T00:00:00",
+          "pvId": "sm41721039",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41721039/41721039.54745724",
+          "url": "http://www.nicovideo.jp/watch/sm41721039"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 3,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 3
+    },
+    {
+      "artistString": "Osanzi feat. Hatsune Miku",
+      "createDate": "2023-01-26T13:46:07.257",
+      "defaultName": "KISS ME",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 4,
+      "id": 470972,
+      "lengthSeconds": 205,
+      "name": "KISS ME",
+      "publishDate": "2023-01-26T00:00:00Z",
+      "pvs": [
+        {
+          "author": "Osanzi",
+          "disabled": false,
+          "id": 721461,
+          "length": 205,
+          "name": "KISS ME / Osanzi feat.初音ミク",
+          "publishDate": "2023-01-26T00:00:00",
+          "pvId": "r_0AS8LHaJE",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/r_0AS8LHaJE/default.jpg",
+          "url": "https://youtu.be/r_0AS8LHaJE"
+        },
+        {
+          "author": "Osanzi",
+          "disabled": false,
+          "id": 721462,
+          "length": 205,
+          "name": "KISS ME / Osanzi feat.初音ミク",
+          "publishDate": "2023-01-26T00:00:00",
+          "pvId": "sm41700429",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41700429/41700429.64096491",
+          "url": "http://www.nicovideo.jp/watch/sm41700429"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 28,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 2
+    },
+    {
+      "artistString": "Zalbowl feat. Koharu Rikka (Unknown), Tsuina-chan (Unknown)",
+      "createDate": "2023-02-08T19:47:00.8",
+      "defaultName": "The Flagman",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 3,
+      "id": 474021,
+      "lengthSeconds": 207,
+      "name": "The Flagman",
+      "publishDate": "2023-02-06T00:00:00Z",
+      "pvs": [
+        {
+          "author": "ざるぼうる",
+          "disabled": false,
+          "id": 726695,
+          "length": 207,
+          "name": "【オリジナル】The Flagman / feat.小春六花&ついなちゃん",
+          "publishDate": "2023-02-06T00:00:00",
+          "pvId": "sm41757060",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41757060/41757060.90498553",
+          "url": "http://www.nicovideo.jp/watch/sm41757060"
+        },
+        {
+          "author": "ざるぼうる / ZalBowl",
+          "disabled": false,
+          "id": 740984,
+          "length": 208,
+          "name": "【オリジナル】The Flagman / feat.小春六花&ついなちゃん",
+          "publishDate": "2023-02-17T00:00:00",
+          "pvId": "0v5WiBU7bQ8",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/0v5WiBU7bQ8/default.jpg",
+          "url": "https://youtu.be/0v5WiBU7bQ8"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 9,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 3
+    }
+  ],
+  "popularSongs": [
+    {
+      "artistString": "DECO*27, PinocchioP feat. Hatsune Miku V4X (Original), Hatsune Miku V4X (Dark)",
+      "createDate": "2023-01-13T12:13:37.547",
+      "defaultName": "デビルじゃないもん",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 30,
+      "id": 467610,
+      "lengthSeconds": 164,
+      "name": "(Not) A Devil",
+      "publishDate": "2023-01-13T00:00:00Z",
+      "pvs": [
+        {
+          "author": "DECO*27",
+          "disabled": false,
+          "id": 716030,
+          "length": 164,
+          "name": "DECO*27 x ピノキオピー - デビルじゃないもん feat. 初音ミク",
+          "publishDate": "2023-01-13T00:00:00",
+          "pvId": "lMEt3RdqB9Y",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/lMEt3RdqB9Y/default.jpg",
+          "url": "https://youtu.be/lMEt3RdqB9Y"
+        },
+        {
+          "author": "DECO*27",
+          "disabled": false,
+          "id": 716031,
+          "length": 163,
+          "name": "DECO*27 x ピノキオピー - デビルじゃないもん feat. 初音ミク",
+          "publishDate": "2023-01-13T00:00:00",
+          "pvId": "sm41606052",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41606052/41606052.7678420",
+          "url": "http://www.nicovideo.jp/watch/sm41606052"
+        },
+        {
+          "author": "DECO*27 - Topic",
+          "disabled": false,
+          "id": 716114,
+          "length": 164,
+          "name": "デビルじゃないもん",
+          "publishDate": "2023-01-13T00:00:00",
+          "pvId": "AFSlEd6Sp9o",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/AFSlEd6Sp9o/default.jpg",
+          "url": "https://youtu.be/AFSlEd6Sp9o"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 176,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 13
+    },
+    {
+      "artistString": "PinocchioP feat. ARuFa, Hatsune Miku V4X (Unknown)",
+      "createDate": "2023-02-17T06:14:11.42",
+      "defaultName": "匿名M",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 22,
+      "id": 476100,
+      "lengthSeconds": 160,
+      "name": "Anonymous M",
+      "publishDate": "2023-02-16T00:00:00Z",
+      "pvs": [
+        {
+          "author": "ピノキオピー PINOCCHIOP OFFICIAL CHANNEL",
+          "disabled": false,
+          "id": 730128,
+          "length": 160,
+          "name": "ピノキオピー - 匿名M feat. 初音ミク・ARuFa / Anonymous M",
+          "publishDate": "2023-02-17T00:00:00",
+          "pvId": "yiqEEL7ac6M",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/yiqEEL7ac6M/default.jpg",
+          "url": "https://youtu.be/yiqEEL7ac6M"
+        },
+        {
+          "author": "ピノキオピー",
+          "disabled": false,
+          "id": 730129,
+          "length": 159,
+          "name": "匿名M / 初音ミク・ARuFa",
+          "publishDate": "2023-02-17T00:00:00",
+          "pvId": "sm41803605",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41803605/41803605.11363833",
+          "url": "http://www.nicovideo.jp/watch/sm41803605"
+        },
+        {
+          "author": "ピノキオピー_official",
+          "disabled": false,
+          "extendedMetadata": {
+            "json": "{\"Aid\":309464016,\"Bvid\":\"BV1WA411U7D2\",\"Cid\":1010061979}"
+          },
+          "id": 730526,
+          "length": 161,
+          "name": "ピノキオピー - 匿名M feat. 初音ミク・ARuFa",
+          "publishDate": "2023-02-17T00:00:00",
+          "pvId": "309464016",
+          "service": "Bilibili",
+          "pvType": "Original",
+          "thumbUrl": "http://i0.hdslb.com/bfs/archive/940b6e250e05cc87518faf397c19e5d248a807ad.jpg",
+          "url": "https://www.bilibili.com/video/av309464016"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube, Bilibili",
+      "ratingScore": 148,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 11
+    },
+    {
+      "artistString": "OSTER project feat. Kasane Teto SV",
+      "createDate": "2023-04-03T06:23:13.83",
+      "defaultName": "エイプリルスター",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 25,
+      "id": 489530,
+      "lengthSeconds": 233,
+      "name": "April Star",
+      "publishDate": "2023-04-03T00:00:00Z",
+      "pvs": [
+        {
+          "author": "重音テトおふぃしゃる「ツインドリル」youtube支部",
+          "disabled": false,
+          "id": 750885,
+          "length": 233,
+          "name": "エイプリルスター　feat. 重音テトSV",
+          "publishDate": "2023-04-03T00:00:00",
+          "pvId": "N1E3rh4R8eE",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/N1E3rh4R8eE/default.jpg",
+          "url": "https://youtu.be/N1E3rh4R8eE"
+        },
+        {
+          "author": "重音テト公式  ツインドリル",
+          "disabled": false,
+          "id": 750983,
+          "length": 232,
+          "name": "エイプリルスター　feat. 重音テトSV",
+          "publishDate": "2023-04-03T00:00:00",
+          "pvId": "sm42016196",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42016196/42016196.38298275",
+          "url": "http://www.nicovideo.jp/watch/sm42016196"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 121,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 10
+    },
+    {
+      "artistString": "Yukopi feat. Kaai Yuki",
+      "createDate": "2023-03-15T15:19:15.623",
+      "defaultName": "強風オールバック",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 18,
+      "id": 482572,
+      "lengthSeconds": 136,
+      "name": "Hair Swept Back By Gale-Force Winds",
+      "publishDate": "2023-03-15T00:00:00Z",
+      "pvs": [
+        {
+          "author": "ゆこぴ",
+          "disabled": false,
+          "id": 740526,
+          "length": 136,
+          "name": "ゆこぴ - 強風オールバック feat.歌愛ユキ",
+          "publishDate": "2023-03-15T00:00:00",
+          "pvId": "sm41926207",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41926207/41926207.95161718",
+          "url": "http://www.nicovideo.jp/watch/sm41926207"
+        },
+        {
+          "author": "Yukopi",
+          "disabled": false,
+          "id": 740528,
+          "length": 137,
+          "name": "Yukopi - 強風オールバック (feat.歌愛ユキ)",
+          "publishDate": "2023-03-15T00:00:00",
+          "pvId": "D6DVTLvOupE",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/D6DVTLvOupE/default.jpg",
+          "url": "https://youtu.be/D6DVTLvOupE"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 118,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 7
+    },
+    {
+      "artistString": "Utsu-P feat. Hatsune Miku V4 (English), Hatsune Miku V4X (Dark)",
+      "createDate": "2023-03-18T17:05:01.457",
+      "defaultName": "ガ",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 17,
+      "id": 483357,
+      "lengthSeconds": 190,
+      "name": "Moth",
+      "publishDate": "2023-03-18T00:00:00Z",
+      "pvs": [
+        {
+          "author": "鬱P / Utsu-P",
+          "disabled": false,
+          "id": 741673,
+          "length": 190,
+          "name": "Utsu-P - ガ / Ga  feat. 初音ミク",
+          "publishDate": "2023-03-18T00:00:00",
+          "pvId": "sja_sX0MXXg",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/sja_sX0MXXg/default.jpg",
+          "url": "https://youtu.be/sja_sX0MXXg"
+        },
+        {
+          "author": "鬱P",
+          "disabled": false,
+          "id": 741682,
+          "length": 189,
+          "name": "ガ / 鬱P feat.初音ミク",
+          "publishDate": "2023-03-19T00:00:00",
+          "pvId": "sm41949707",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41949707/41949707.65455718",
+          "url": "http://www.nicovideo.jp/watch/sm41949707"
+        },
+        {
+          "author": "Utsu-P",
+          "disabled": false,
+          "extendedMetadata": {
+            "json": "{\"Aid\":908660235,\"Bvid\":\"BV1oM4y1z7gF\",\"Cid\":1059429150}"
+          },
+          "id": 742284,
+          "length": 190,
+          "name": "【初音未来】蛾【Utsu-P/郁P】",
+          "publishDate": "2023-03-18T00:00:00",
+          "pvId": "908660235",
+          "service": "Bilibili",
+          "pvType": "Original",
+          "thumbUrl": "http://i1.hdslb.com/bfs/archive/bd324cf91076e5c46d56f85cbba216bef3b70ed8.jpg",
+          "url": "https://www.bilibili.com/video/av908660235"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube, Bilibili",
+      "ratingScore": 115,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 17
+    },
+    {
+      "artistString": "Teniwoha feat. Hatsune Miku V4X (Original)",
+      "createDate": "2023-04-06T14:45:09.273",
+      "defaultName": "ザムザ",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 16,
+      "id": 490444,
+      "lengthSeconds": 211,
+      "name": "Samsa",
+      "publishDate": "2023-04-06T00:00:00Z",
+      "pvs": [
+        {
+          "author": "てにをは",
+          "disabled": false,
+          "id": 752357,
+          "length": 211,
+          "name": "ザムザ / てにをは feat.初音ミク",
+          "publishDate": "2023-04-06T00:00:00",
+          "pvId": "q90SFMi8aUg",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/q90SFMi8aUg/default.jpg",
+          "url": "https://youtu.be/q90SFMi8aUg"
+        },
+        {
+          "author": "てにをは",
+          "disabled": false,
+          "id": 752942,
+          "length": 211,
+          "name": "ザムザ / てにをは feat.初音ミク",
+          "publishDate": "2023-04-07T00:00:00",
+          "pvId": "sm42047041",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42047041/42047041.80710657",
+          "url": "http://www.nicovideo.jp/watch/sm42047041"
+        },
+        {
+          "author": "Teniwoha - Topic",
+          "disabled": false,
+          "id": 753112,
+          "length": 213,
+          "name": "ザムザ",
+          "publishDate": "2023-04-07T00:00:00",
+          "pvId": "8BQqO_1nl24",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/8BQqO_1nl24/default.jpg",
+          "url": "https://youtu.be/8BQqO_1nl24"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 92,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 15
+    },
+    {
+      "artistString": "iyowa feat. various",
+      "createDate": "2023-03-18T19:08:04.39",
+      "defaultName": "一千光年",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 18,
+      "id": 483406,
+      "lengthSeconds": 242,
+      "name": "A Thousand Light Years",
+      "publishDate": "2023-03-19T00:00:00Z",
+      "pvs": [
+        {
+          "author": "いよわ",
+          "disabled": false,
+          "id": 741744,
+          "length": 242,
+          "name": "一千光年",
+          "publishDate": "2023-03-19T00:00:00",
+          "pvId": "sm41951611",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41951611/41951611.65711710",
+          "url": "http://www.nicovideo.jp/watch/sm41951611"
+        },
+        {
+          "author": "いよわ/ iyowa",
+          "disabled": false,
+          "id": 746835,
+          "length": 243,
+          "name": "一千光年 / いよわ feat. 初音ミク、v_flower、歌愛ユキ、GUMI、可不、星界、足立レイ、裏命、花隈千冬、VY1、SOLARIA（KLY / Iyowa with AllSingers）",
+          "publishDate": "2023-03-26T00:00:00",
+          "pvId": "uB_jQ8H2Yeg",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/uB_jQ8H2Yeg/default.jpg",
+          "url": "https://youtu.be/uB_jQ8H2Yeg"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 88,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 9
+    },
+    {
+      "artistString": "Utsu-P feat. ROSE",
+      "createDate": "2023-04-14T14:05:52.033",
+      "defaultName": "SUSHI-GO-ROUND",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 15,
+      "id": 492234,
+      "lengthSeconds": 188,
+      "name": "SUSHI-GO-ROUND",
+      "publishDate": "2023-04-14T00:00:00Z",
+      "pvs": [
+        {
+          "author": "鬱P / Utsu-P",
+          "disabled": false,
+          "id": 756224,
+          "length": 188,
+          "name": "Utsu-P / SUSHI-GO-ROUND feat. ROSE",
+          "publishDate": "2023-04-14T00:00:00",
+          "pvId": "4dHeI8NOFLQ",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/4dHeI8NOFLQ/default.jpg",
+          "url": "https://youtu.be/4dHeI8NOFLQ"
+        },
+        {
+          "author": "鬱P",
+          "disabled": false,
+          "id": 756225,
+          "length": 188,
+          "name": "SUSHI-GO-ROUND / 鬱P feat. ROSE",
+          "publishDate": "2023-04-14T00:00:00",
+          "pvId": "sm42077858",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42077858/42077858.31639799",
+          "url": "http://www.nicovideo.jp/watch/sm42077858"
+        },
+        {
+          "author": "Various Artists - Topic",
+          "disabled": false,
+          "id": 756517,
+          "length": 191,
+          "name": "SUSHI-GO-ROUND",
+          "publishDate": "2023-04-14T00:00:00",
+          "pvId": "E-dXmCXNFIs",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/E-dXmCXNFIs/default.jpg",
+          "url": "https://youtu.be/E-dXmCXNFIs"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube",
+      "ratingScore": 87,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 6
+    },
+    {
+      "artistString": "CircusP feat. v4 flower",
+      "createDate": "2023-04-24T02:32:57.347",
+      "defaultName": "Better Off Worse",
+      "defaultNameLanguage": "English",
+      "favoritedTimes": 13,
+      "id": 494418,
+      "lengthSeconds": 244,
+      "name": "Better Off Worse",
+      "publishDate": "2023-05-12T00:00:00Z",
+      "pvs": [
+        {
+          "author": "VocaCircus",
+          "disabled": false,
+          "id": 767061,
+          "length": 255,
+          "name": "【FLOWER】 Better Off Worse / CircusP  [ ⚠ CW ]",
+          "publishDate": "2023-05-12T00:00:00",
+          "pvId": "nrsr_-QXCv4",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/nrsr_-QXCv4/default.jpg",
+          "url": "https://youtu.be/nrsr_-QXCv4"
+        },
+        {
+          "author": "Circus",
+          "disabled": false,
+          "id": 767063,
+          "length": 244,
+          "name": "Better Off Worse / フラワ",
+          "publishDate": "2023-05-13T00:00:00",
+          "pvId": "sm42209181",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/42209181/42209181.69185509",
+          "url": "http://www.nicovideo.jp/watch/sm42209181"
+        },
+        {
+          "author": "VocaCircus",
+          "disabled": false,
+          "extendedMetadata": {
+            "json": "{\"Aid\":783522123,\"Bvid\":\"BV1e24y1M7Lp\",\"Cid\":1126515625}"
+          },
+          "id": 767064,
+          "length": 245,
+          "name": "【FLOWER】 BETTER OFF WORSE",
+          "publishDate": "2023-05-12T00:00:00",
+          "pvId": "783522123",
+          "service": "Bilibili",
+          "pvType": "Original",
+          "thumbUrl": "http://i0.hdslb.com/bfs/archive/95da43ecffa4a68dfab4d5e6cbc0cd114f99e306.jpg",
+          "url": "https://www.bilibili.com/video/av783522123"
+        },
+        {
+          "author": "CircusP - Topic",
+          "disabled": false,
+          "id": 771269,
+          "length": 241,
+          "name": "Better Off Worse",
+          "publishDate": "2023-05-25T00:00:00",
+          "pvId": "GFLEvp2bsvs",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/GFLEvp2bsvs/default.jpg",
+          "url": "https://youtu.be/GFLEvp2bsvs"
+        },
+        {
+          "author": "Circus-P",
+          "disabled": false,
+          "extendedMetadata": {
+            "json": "{\"Url\":\"https://circus-p.bandcamp.com/track/better-off-worse\"}"
+          },
+          "id": 771703,
+          "length": 240,
+          "name": "Circus-P - Better Off Worse",
+          "publishDate": "2023-05-26T00:00:00",
+          "pvId": "3624347349",
+          "service": "Bandcamp",
+          "pvType": "Original",
+          "thumbUrl": "https://f4.bcbits.com/img/a3978317241_5.jpg",
+          "url": "https://circus-p.bandcamp.com/track/better-off-worse"
+        },
+        {
+          "author": "CircusP",
+          "disabled": false,
+          "id": 774107,
+          "length": 240,
+          "name": "Better Off Worse (ft. フラワ)",
+          "publishDate": "2023-05-26T00:00:00",
+          "pvId": "1522709737 circusp/better-off-worse-ft",
+          "service": "SoundCloud",
+          "pvType": "Original",
+          "thumbUrl": "https://i1.sndcdn.com/artworks-WWOBhMrzparj8zyn-pIqHsw-large.jpg",
+          "url": "http://soundcloud.com/circusp/better-off-worse-ft"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube, SoundCloud, Bilibili, Bandcamp",
+      "ratingScore": 85,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 20
+    },
+    {
+      "artistString": "Mitchie M feat. Hatsune Miku",
+      "createDate": "2023-01-07T10:02:30.683",
+      "defaultName": "少女Aに夜露死苦",
+      "defaultNameLanguage": "Japanese",
+      "favoritedTimes": 12,
+      "id": 464179,
+      "lengthSeconds": 224,
+      "name": "Bad Girl A",
+      "publishDate": "2023-01-07T00:00:00Z",
+      "pvs": [
+        {
+          "author": "Mitchie M",
+          "disabled": false,
+          "id": 711592,
+          "length": 224,
+          "name": "初音ミクのヤンキー漫画MV『少女Aに夜露死苦』/ Mitchie M",
+          "publishDate": "2023-01-07T00:00:00",
+          "pvId": "JQoeuGNJfAg",
+          "service": "Youtube",
+          "pvType": "Original",
+          "thumbUrl": "https://i.ytimg.com/vi/JQoeuGNJfAg/default.jpg",
+          "url": "https://youtu.be/JQoeuGNJfAg"
+        },
+        {
+          "author": "Mitchie M",
+          "disabled": false,
+          "id": 711605,
+          "length": 223,
+          "name": "初音ミクのヤンキー漫画MV『少女Aに夜露死苦』/ Mitchie M",
+          "publishDate": "2023-01-07T00:00:00",
+          "pvId": "sm41607088",
+          "service": "NicoNicoDouga",
+          "pvType": "Original",
+          "thumbUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/41607088/41607088.48067566",
+          "url": "http://www.nicovideo.jp/watch/sm41607088"
+        },
+        {
+          "author": "MitchieM",
+          "disabled": false,
+          "extendedMetadata": {
+            "json": "{\"Aid\":777304440,\"Bvid\":\"BV1h14y1g7jt\",\"Cid\":951365157}"
+          },
+          "id": 711606,
+          "length": 224,
+          "name": "【Mitchie M】初音未来《坏女孩A》【流氓漫画MV】",
+          "publishDate": "2023-01-07T00:00:00",
+          "pvId": "777304440",
+          "service": "Bilibili",
+          "pvType": "Original",
+          "thumbUrl": "http://i2.hdslb.com/bfs/archive/9773b3c23431ed46506ff0189d5df66a34585a09.jpg",
+          "url": "https://www.bilibili.com/video/av777304440"
+        }
+      ],
+      "pvServices": "NicoNicoDouga, Youtube, Bilibili",
+      "ratingScore": 84,
+      "songType": "Original",
+      "status": "Finished",
+      "version": 11
+    }
+  ],
+  "favoriteGenreTags": [
+    {
+      "item1": "electronic",
+      "item2": 54
+    },
+    {
+      "item1": "rock",
+      "item2": 49
+    },
+    {
+      "item1": "EDM",
+      "item2": 44
+    },
+    {
+      "item1": "synthpop",
+      "item2": 19
+    },
+    {
+      "item1": "pop",
+      "item2": 16
+    },
+    {
+      "item1": "jungle music",
+      "item2": 11
+    },
+    {
+      "item1": "hip hop",
+      "item2": 10
+    },
+    {
+      "item1": "RnB",
+      "item2": 9
+    },
+    {
+      "item1": "house",
+      "item2": 8
+    },
+    {
+      "item1": "electro-house",
+      "item2": 7
+    },
+    {
+      "item1": "Other genres",
+      "item2": 74
+    }
+  ],
+  "favoriteSubjectiveTags": [
+    {
+      "item1": "stylish",
+      "item2": 15
+    },
+    {
+      "item1": "cool",
+      "item2": 13
+    },
+    {
+      "item1": "positive",
+      "item2": 12
+    },
+    {
+      "item1": "good tuning",
+      "item2": 11
+    },
+    {
+      "item1": "dark",
+      "item2": 6
+    },
+    {
+      "item1": "catchy",
+      "item2": 5
+    },
+    {
+      "item1": "energetic",
+      "item2": 3
+    },
+    {
+      "item1": "listen till the end",
+      "item2": 3
+    },
+    {
+      "item1": "bittersweet",
+      "item2": 1
+    },
+    {
+      "item1": "pleasant",
+      "item2": 1
+    },
+    {
+      "item1": "Other genres",
+      "item2": 1
+    }
+  ]
+}

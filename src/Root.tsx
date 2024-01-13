@@ -25,7 +25,7 @@ export const RemotionRoot: React.FC = () => {
 			<Composition
 				id="rewind"
 				component={RewindVideo}
-				durationInFrames={20 * 60}
+				durationInFrames={40 * 30}
 				fps={30}
 				width={750}
 				height={1334}
