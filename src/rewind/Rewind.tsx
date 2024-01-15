@@ -5,10 +5,11 @@ import { AbsoluteFill, Audio, Img, interpolate, staticFile, useCurrentFrame, use
 import { Animated, Fade, Move, Scale } from "remotion-animated"
 import { RewindSchema } from "./schemas"
 import { fontFamily } from "./font"
-import { SongHitStats } from "./SongHitStats"
+// Import { SongHitStats } from "./SongHitStats"
 import SongHitText from "./SongHitText"
 import GenreStats from "./GenreStats"
 import GenreText from "./GenreText"
+import { SongHitStats2 } from "./SongHitStats2"
 
 export const RewindVideo: React.FC<RewindSchema> = ({
   songHitsOnDays,
@@ -20,7 +21,7 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 
   return (
     <>
-      <Audio name="Hibikase" placeholder="" volume={(f) => interpolate(f, [0, 30], [0, 1], { extrapolateLeft: "clamp" })} startFrom={15 * 60} src="https://dream-traveler.fly.dev/youtube/audio?url=https://youtu.be/lMEt3RdqB9Y" />
+      <Audio name="Hibikase" placeholder="" volume={(f) => interpolate(f, [0, 30], [0, 1], { extrapolateLeft: "clamp" })} startFrom={15 * 60} src="https://dream-traveler.fly.dev/youtube/audio/ddl?url=https://youtu.be/lMEt3RdqB9Y" />
       <TransitionSeries style={{ fontFamily }}>
         <TransitionSeries.Sequence durationInFrames={5 * 60}>
           <AbsoluteFill className="bg-[#86cecb] justify-center">
@@ -51,10 +52,16 @@ export const RewindVideo: React.FC<RewindSchema> = ({
         <TransitionSeries.Sequence durationInFrames={4 * 60 + 30}>
           <AbsoluteFill className="bg-[#F2B3BD] items-center justify-center ">
             <SongHitText songHitsOnDays={songHitsOnDays} />
+            <div className="h-4/5 w-full">
+              <SongHitStats2 songHitsOnDays={songHitsOnDays} />
+            </div>
+          </AbsoluteFill>
+          {/*           <AbsoluteFill className="bg-[#F2B3BD] items-center justify-center ">
+            <SongHitText songHitsOnDays={songHitsOnDays} />
             <div className="h-4/5">
               <SongHitStats songHitsOnDays={songHitsOnDays} />
             </div>
-          </AbsoluteFill>
+          </AbsoluteFill> */}
         </TransitionSeries.Sequence>
         <TransitionSeries.Transition presentation={wipe({ direction: "from-bottom" })} timing={linearTiming({ durationInFrames: 20 })} />
         <TransitionSeries.Sequence durationInFrames={4 * 60}>
