@@ -10,11 +10,14 @@ import SongHitText from "./SongHitText"
 import GenreStats from "./GenreStats"
 import GenreText from "./GenreText"
 import { SongHitStats2 } from "./SongHitStats2"
+import FavoriteArtistsStats from "./FavoriteArtistsStats"
 
 export const RewindVideo: React.FC<RewindSchema> = ({
   songHitsOnDays,
   favoriteGenreTags,
-  favoriteSubjectiveTags
+  favoriteSubjectiveTags,
+  favoriteProducers,
+  favoriteVoicebanks
 }) => {
   const config = useVideoConfig()
   const frame = useCurrentFrame()
@@ -56,15 +59,9 @@ export const RewindVideo: React.FC<RewindSchema> = ({
               <SongHitStats2 songHitsOnDays={songHitsOnDays} />
             </div>
           </AbsoluteFill>
-          {/*           <AbsoluteFill className="bg-[#F2B3BD] items-center justify-center ">
-            <SongHitText songHitsOnDays={songHitsOnDays} />
-            <div className="h-4/5">
-              <SongHitStats songHitsOnDays={songHitsOnDays} />
-            </div>
-          </AbsoluteFill> */}
         </TransitionSeries.Sequence>
         <TransitionSeries.Transition presentation={wipe({ direction: "from-bottom" })} timing={linearTiming({ durationInFrames: 20 })} />
-        <TransitionSeries.Sequence durationInFrames={4 * 60}>
+        <TransitionSeries.Sequence durationInFrames={4 * 60 + 30}>
           <AbsoluteFill className="bg-[#b51403] justify-center items-center text-white fill-white">
             <GenreText />
             <div className="h-5/6 flex items-center">
@@ -72,7 +69,12 @@ export const RewindVideo: React.FC<RewindSchema> = ({
             </div>
           </AbsoluteFill>
         </TransitionSeries.Sequence>
-      </TransitionSeries >
-    </>
-  )
+        <TransitionSeries.Transition presentation={wipe({ direction: 'from-top-left' })} timing={linearTiming({ durationInFrames: 20 })} />
+        <TransitionSeries.Sequence durationInFrames={5 * 60}>
+          <AbsoluteFill className="bg-[#2209c3] flex justify-center text-white">
+            <FavoriteArtistsStats favoriteProducers={favoriteProducers} favoriteVoicebanks={favoriteVoicebanks} />
+          </AbsoluteFill>
+        </TransitionSeries.Sequence>
+      </TransitionSeries>
+    </>)
 }
