@@ -18,14 +18,14 @@ export default function GenreStats({ favoriteGenreTags, favoriteSubjectiveTags }
   const subjectiveMax = maxByKey(favoriteSubjectiveTags, g => g.item2) ?? 1
 
   const baseData = frame > 150 ? favoriteSubjectiveTags : favoriteGenreTags;
-  const data = baseData.filter(g => g.item1 !== "Other genres")
+  const data = baseData.filter((_, ind) => ind < 6).filter(g => g.item1 !== "Other genres")
     .map((g, ind) => {
       if (frame < 150) {
-        return { id: g.item1, value: spring({ fps, frame, durationInFrames: 60, delay: 30, from: 0, to: g.item2 }) }
+        return { id: g.item1, value: spring({ fps, frame, durationInFrames: 60, delay: 30, from: 0, to: g.item2, config: { stiffness: 50 } }) }
       }
       const scale = genreMax / subjectiveMax;
-      const prev = favoriteGenreTags[ind].item2
-      return { id: g.item1, value: spring({ fps, frame, durationInFrames: 90, delay: 150, from: prev, to: g.item2 * scale }) }
+      const prev = favoriteGenreTags.length > ind ? favoriteGenreTags[ind].item2 : 0;
+      return { id: g.item1, value: spring({ fps, frame, durationInFrames: 90, delay: 150, from: prev, to: g.item2 * scale, config: { stiffness: 50 } }) }
     })
 
 
@@ -34,7 +34,7 @@ export default function GenreStats({ favoriteGenreTags, favoriteSubjectiveTags }
   return <Animated in={30} animations={[Fade({ initial: 0, to: 1, duration: 15, start: 30 })]}>
     <Bar
       data={data}
-      maxValue={genreMax}
+      maxValue={genreMax * 1.2}
       theme={nivoTheme}
       height={height * 5 / 6}
       width={width - 100}
