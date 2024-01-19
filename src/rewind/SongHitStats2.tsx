@@ -8,6 +8,8 @@ interface SongHitStatsProps {
   songHitsOnDays: RewindSchema["songHitsOnDays"]
 }
 
+const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sept', 'Oct', 'Nov', 'Dec']
+
 export const SongHitStats2: React.FC<SongHitStatsProps> = ({ songHitsOnDays }) => {
   // TODO: Check if these defaults make sense
   const meanHits = mean(songHitsOnDays.map(h => h.count)) ?? 1
@@ -45,7 +47,7 @@ export const SongHitStats2: React.FC<SongHitStatsProps> = ({ songHitsOnDays }) =
       const color = cache[x]
       const rowOfX = row(x)
       const colOfX = x - rowLength * rowOfX
-      const progr = ((rowOfX * colOfX) / (rows * rowLength)) * 60;
+      const progr = ((rowOfX * colOfX) / (rows * rowLength)) * 30;
       const scale = interpolate(frame - startFrame - progr, [0, 60], [0, 1], { extrapolateRight: "clamp" })
       return <div
         key={x}
@@ -58,6 +60,23 @@ export const SongHitStats2: React.FC<SongHitStatsProps> = ({ songHitsOnDays }) =
           opacity: scale,
         }}
         className="absolute" />
+    })}
+    {months.map((month, index) => {
+      const progr = index / 11 * 30;
+      const scale = interpolate(frame - startFrame - progr, [0, 60], [0, 1], { extrapolateRight: "clamp" })
+      return <div
+        key={month}
+        style={{
+          top: 40 + baseHeight + 2.15 * index * itemHeight,
+          left: 25,
+          fontSize: 25,
+          transform: 'scale(-1) translate(-50%, 50%)',
+          writingMode: 'vertical-lr',
+          opacity: scale
+        }}
+        className="absolute">
+        {month}
+      </div>
     })}
   </div>
 }
