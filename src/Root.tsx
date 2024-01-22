@@ -1,9 +1,9 @@
-import { Composition } from 'remotion';
-import { MyComposition, myCompSchema } from './Composition';
+import {Composition} from 'remotion';
+import {MyComposition, myCompSchema} from './Composition';
 import './style.css';
-import data from "../shiro.json"
-import { RewindVideo } from './rewind/Rewind';
-import { rewindSchema } from './rewind/schemas';
+import data from '../shiro.json';
+import {RewindVideo} from './rewind/Rewind';
+import {rewindSchema} from './rewind/schemas';
 
 export const RemotionRoot: React.FC = () => {
 	return (
@@ -25,12 +25,13 @@ export const RemotionRoot: React.FC = () => {
 			<Composition
 				id="rewind"
 				component={RewindVideo}
-				durationInFrames={40 * 30}
+				durationInFrames={60 * 30}
 				fps={30}
 				width={750}
 				height={1334}
 				schema={rewindSchema}
-				defaultProps={data} />
+				defaultProps={data}
+			/>
 		</>
 	);
 };

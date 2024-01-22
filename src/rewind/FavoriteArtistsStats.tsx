@@ -1,6 +1,6 @@
 import {Animated, Fade} from 'remotion-animated';
 import {RewindSchema} from './schemas';
-import {Img} from 'remotion';
+import {Img, useVideoConfig} from 'remotion';
 
 interface FavoriteArtistsStatsProps {
 	favoriteVoicebanks: RewindSchema['favoriteVoicebanks'];
@@ -13,19 +13,36 @@ export default function FavoriteArtistsStats({
 	favoriteVoicebanks,
 }: FavoriteArtistsStatsProps) {
 	// TODO: Check if image just returns default ? image
-	return (
+	const vb = [...favoriteVoicebanks].reverse();
+	const pr = [...favoriteProducers].reverse();
+	const {fps} = useVideoConfig();
+
+	const animation = (
+		artists: RewindSchema['favoriteProducers'],
+		startFrame: number = 0
+	) => (
 		<>
-			{favoriteVoicebanks.map((v, ind) => (
+			{artists.map((v, ind) => (
 				<Animated
 					key={ind}
-					in={ind * 60}
+					in={ind * 60 + startFrame}
 					animations={[
-						Fade({start: ind * 60, duration: 30, initial: 0, to: 1}),
-						Fade({start: (ind + 1) * 60, duration: 30, initial: 1, to: 0}),
+						Fade({
+							start: ind * 60 + startFrame,
+							duration: 30,
+							initial: 0,
+							to: 1,
+						}),
+						Fade({
+							start: (ind + 1) * 60 + startFrame,
+							duration: 30,
+							initial: 1,
+							to: 0,
+						}),
 					]}
 				>
 					<p className="absolute text-4xl w-full text-center z-10">
-						{`${ind + 1}. ${v.defaultName}`}
+						{`${vb.length - ind}. ${v.defaultName}`}
 					</p>
 					<Img
 						src={`https://vocadb.net/Artist/Picture/${v.id}`}
@@ -34,6 +51,44 @@ export default function FavoriteArtistsStats({
 					/>
 				</Animated>
 			))}
+		</>
+	);
+
+	const TitleText = ({
+		text,
+		start,
+		length,
+	}: {
+		text: string;
+		start: number;
+		length: number;
+	}) => (
+		<Animated
+			in={start}
+			animations={[
+				Fade({start, initial: 0, to: 1}),
+				Fade({start: start + length * fps * 2, to: 0}),
+			]}
+		>
+			<div className="absolute top-10 w-full text-center text-6xl font-bold">
+				{text}
+			</div>
+		</Animated>
+	);
+
+	const vbStart = fps / 2;
+	const prStart = fps / 2 + vb.length * 2 * fps;
+
+	return (
+		<>
+			<TitleText
+				start={vbStart}
+				text="Favorite Voicebanks"
+				length={vb.length}
+			/>
+			<TitleText start={prStart} text="Favorite Producers" length={pr.length} />
+			{animation(vb, vbStart)}
+			{animation(pr, prStart)}
 		</>
 	);
 }
