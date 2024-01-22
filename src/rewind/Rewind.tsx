@@ -1,6 +1,6 @@
 import {TransitionSeries, linearTiming} from '@remotion/transitions';
 import {wipe} from '@remotion/transitions/wipe';
-import React from 'react';
+import React, {useEffect} from 'react';
 import {
 	AbsoluteFill,
 	Audio,
@@ -19,6 +19,7 @@ import GenreStats from './GenreStats';
 import GenreText from './GenreText';
 import {SongHitStats2} from './SongHitStats2';
 import FavoriteArtistsStats from './FavoriteArtistsStats';
+import {preloadImage} from '@remotion/preload';
 
 export const RewindVideo: React.FC<RewindSchema> = ({
 	accountName,
@@ -32,6 +33,15 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 }) => {
 	const config = useVideoConfig();
 	const frame = useCurrentFrame();
+
+	useEffect(() => {
+		favoriteProducers.forEach((a) => {
+			preloadImage(`https://vocadb.net/Artist/Picture/${a.id}`);
+		});
+		favoriteVoicebanks.forEach((a) => {
+			preloadImage(`https://vocadb.net/Artist/Picture/${a.id}`);
+		});
+	}, []);
 
 	return (
 		<>
