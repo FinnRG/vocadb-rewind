@@ -1,11 +1,9 @@
 import {TransitionSeries, linearTiming} from '@remotion/transitions';
 import {wipe} from '@remotion/transitions/wipe';
-import React, {useEffect} from 'react';
+import React from 'react';
 import {
 	AbsoluteFill,
-	Audio,
 	Img,
-	interpolate,
 	staticFile,
 	useCurrentFrame,
 	useVideoConfig,
@@ -19,7 +17,7 @@ import GenreStats from './GenreStats';
 import GenreText from './GenreText';
 import {SongHitStats2} from './SongHitStats2';
 import FavoriteArtistsStats from './FavoriteArtistsStats';
-import {preloadImage} from '@remotion/preload';
+import LikedAudio from './LikedAudio';
 
 export const RewindVideo: React.FC<RewindSchema> = ({
 	accountName,
@@ -30,30 +28,17 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 	favoriteSubjectiveTags,
 	favoriteProducers,
 	favoriteVoicebanks,
+	favoriteSongs,
+	baseUrl,
 }) => {
 	const config = useVideoConfig();
 	const frame = useCurrentFrame();
 
-	useEffect(() => {
-		favoriteProducers.forEach((a) => {
-			preloadImage(`https://vocadb.net/Artist/Picture/${a.id}`);
-		});
-		favoriteVoicebanks.forEach((a) => {
-			preloadImage(`https://vocadb.net/Artist/Picture/${a.id}`);
-		});
-	}, []);
+	// TODO: wsrv.nl
 
 	return (
 		<>
-			<Audio
-				name="Hibikase"
-				placeholder=""
-				volume={(f) =>
-					interpolate(f, [0, 30], [0, 1], {extrapolateLeft: 'clamp'})
-				}
-				startFrom={15 * 60}
-				src="https://dream-traveler.fly.dev/youtube/audio/ddl?url=https://youtu.be/lMEt3RdqB9Y"
-			/>
+			<LikedAudio favoriteSongs={favoriteSongs} />
 			<TransitionSeries style={{fontFamily}}>
 				<TransitionSeries.Sequence durationInFrames={5 * 60}>
 					<AbsoluteFill className="bg-[#86cecb] justify-center">
@@ -72,11 +57,7 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 							]}
 						>
 							<div>2023 Wrapped</div>
-							<Img
-								placeholder=""
-								className="w-1/2 mx-auto"
-								src={staticFile('/logo.png')}
-							/>
+							<Img className="w-1/2 mx-auto" src={staticFile('/logo.png')} />
 						</Animated>
 						<Animated
 							className="text-[3rem] font-bold text-center"
@@ -140,6 +121,7 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 						<FavoriteArtistsStats
 							favoriteProducers={favoriteProducers}
 							favoriteVoicebanks={favoriteVoicebanks}
+							baseUrl={baseUrl}
 						/>
 					</AbsoluteFill>
 				</TransitionSeries.Sequence>

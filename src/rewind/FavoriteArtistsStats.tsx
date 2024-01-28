@@ -5,12 +5,13 @@ import {Img, useVideoConfig} from 'remotion';
 interface FavoriteArtistsStatsProps {
 	favoriteVoicebanks: RewindSchema['favoriteVoicebanks'];
 	favoriteProducers: RewindSchema['favoriteProducers'];
+	baseUrl: RewindSchema['baseUrl'];
 }
 
 export default function FavoriteArtistsStats({
-	// eslint-disable-next-line @typescript-eslint/no-unused-vars
 	favoriteProducers,
 	favoriteVoicebanks,
+	baseUrl,
 }: FavoriteArtistsStatsProps) {
 	// TODO: Check if image just returns default ? image
 	const vb = [...favoriteVoicebanks].reverse();
@@ -45,8 +46,7 @@ export default function FavoriteArtistsStats({
 						{`${vb.length - ind}. ${v.defaultName}`}
 					</p>
 					<Img
-						src={`https://vocadb.net/Artist/Picture/${v.id}`}
-						placeholder=""
+						src={`https://${baseUrl ?? 'vocadb.net'}/Artist/Picture/${v.id}`}
 						className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2  opacity-40 h-5/6 object-contain"
 					/>
 				</Animated>

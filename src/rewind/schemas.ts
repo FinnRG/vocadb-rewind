@@ -11,6 +11,17 @@ const tagSchema = z.object({
 	item2: z.number(),
 });
 
+const songSchema = z.object({
+	pvs: z.array(
+		z.object({
+			url: z.string(),
+			service: z.enum(['Youtube', 'NicoNicoDouga']),
+			disabled: z.boolean(),
+			pvId: z.string(),
+		})
+	),
+});
+
 export const rewindSchema = z.object({
 	accountName: z.string(),
 	userRank: z.number(),
@@ -25,6 +36,9 @@ export const rewindSchema = z.object({
 	favoriteSubjectiveTags: z.array(tagSchema),
 	favoriteProducers: z.array(artistSchema),
 	favoriteVoicebanks: z.array(artistSchema),
+	favoriteSongs: z.array(songSchema),
+	baseUrl: z.string().optional(),
 });
 
+export type Song = z.infer<typeof songSchema>;
 export type RewindSchema = z.infer<typeof rewindSchema>;
