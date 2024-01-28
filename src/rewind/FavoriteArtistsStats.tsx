@@ -5,13 +5,11 @@ import {Img, useVideoConfig} from 'remotion';
 interface FavoriteArtistsStatsProps {
 	favoriteVoicebanks: RewindSchema['favoriteVoicebanks'];
 	favoriteProducers: RewindSchema['favoriteProducers'];
-	baseUrl: RewindSchema['baseUrl'];
 }
 
 export default function FavoriteArtistsStats({
 	favoriteProducers,
 	favoriteVoicebanks,
-	baseUrl,
 }: FavoriteArtistsStatsProps) {
 	// TODO: Check if image just returns default ? image
 	const vb = [...favoriteVoicebanks].reverse();

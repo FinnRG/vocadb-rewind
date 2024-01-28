@@ -42,7 +42,6 @@ export const rewindSchema = z.object({
 	favoriteProducers: z.array(artistSchema),
 	favoriteVoicebanks: z.array(artistSchema),
 	favoriteSongs: z.array(songSchema),
-	baseUrl: z.string().optional(),
 });
 
 export type Song = z.infer<typeof songSchema>;

@@ -30,7 +30,6 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 	favoriteProducers,
 	favoriteVoicebanks,
 	favoriteSongs,
-	baseUrl,
 }) => {
 	const config = useVideoConfig();
 	const frame = useCurrentFrame();
@@ -124,7 +123,6 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 						<FavoriteArtistsStats
 							favoriteProducers={favoriteProducers}
 							favoriteVoicebanks={favoriteVoicebanks}
-							baseUrl={baseUrl}
 						/>
 					</AbsoluteFill>
 				</TransitionSeries.Sequence>

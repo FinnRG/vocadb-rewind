@@ -38,7 +38,6 @@ const Countdown: React.FC<{userRankPercentage: number}> = ({
 };
 
 export default function UserStatAnimation({
-	userRank,
 	userRankPercentage,
 }: UserStatAnimationProps) {
 	const {height} = useVideoConfig();

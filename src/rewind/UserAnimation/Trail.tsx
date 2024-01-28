@@ -10,7 +10,7 @@ export const Trail: React.FC<{
 }> = ({amount, extraOffset, children, delay}) => {
 	return (
 		<AbsoluteFill>
-			{new Array(amount).fill(true).map((a, i) => {
+			{new Array(amount).fill(true).map((_a, i) => {
 				return (
 					<Sequence from={i * 3}>
 						<AbsoluteFill
