@@ -81,11 +81,19 @@ export default function FavoriteArtistsStats({
 	const vbStart = fps / 2;
 	const prStart = fps / 2 + vb.length * 2 * fps;
 
+	let artistType = 'Voicebanks';
+	if (vb.find((v) => v.artistType === 'Character') !== undefined) {
+		artistType = 'Characters';
+	}
+	if (vb.find((v) => v.artistType === 'Utaite') !== undefined) {
+		artistType = 'Utaite';
+	}
+
 	return (
 		<>
 			<TitleText
 				start={vbStart}
-				text="Favorite Voicebanks"
+				text={`Favorite ${artistType}`}
 				length={vb.length}
 			/>
 			<TitleText start={prStart} text="Favorite Producers" length={pr.length} />
