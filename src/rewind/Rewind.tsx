@@ -18,6 +18,7 @@ import GenreText from './GenreText';
 import {SongHitStats2} from './SongHitStats2';
 import FavoriteArtistsStats from './FavoriteArtistsStats';
 import LikedAudio from './LikedAudio';
+import UserStatAnimation from './UserAnimation/UserStatAnimation';
 
 export const RewindVideo: React.FC<RewindSchema> = ({
 	accountName,
@@ -77,7 +78,9 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 								Move({initialY: 0, y: -200, start: 110, duration: 40}),
 							]}
 						>
-							<p style={{opacity: frame < 110 ? 0 : undefined}}>What a year!</p>
+							<p style={{opacity: frame < 110 ? 0 : undefined}}>
+								Let's take a look back at the year 2023!
+							</p>
 						</Animated>
 					</AbsoluteFill>
 				</TransitionSeries.Sequence>
@@ -126,18 +129,15 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 					</AbsoluteFill>
 				</TransitionSeries.Sequence>
 				<TransitionSeries.Transition
-					presentation={wipe({direction: 'from-bottom-right'})}
+					presentation={wipe({direction: 'from-right'})}
 					timing={linearTiming({durationInFrames: 20})}
 				/>
-				<TransitionSeries.Sequence durationInFrames={5 * 60}>
-					<AbsoluteFill className="bg-black text-white flex justify-center">
-						<p className="text-6xl">
-							User Rank: {userRank}
-							<br />
-							User Rank Percentage: {userRankPercentage.toFixed(2)}
-							<br />
-							Thank you text here
-						</p>
+				<TransitionSeries.Sequence durationInFrames={7 * 60}>
+					<AbsoluteFill className="flex justify-center text-white">
+						<UserStatAnimation
+							userRank={userRank}
+							userRankPercentage={userRankPercentage}
+						/>
 					</AbsoluteFill>
 				</TransitionSeries.Sequence>
 			</TransitionSeries>

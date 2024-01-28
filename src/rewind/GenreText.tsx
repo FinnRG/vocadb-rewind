@@ -10,7 +10,8 @@ export default function GenreText() {
 
 	return (
 		<div className="h-1/6 w-3/4 flex flex-col justify-center items-center">
-			<div className="grid">
+			<p className="text-6xl font-bold text-center w-full">Your favourite</p>
+			<div className="mt-1 grid">
 				<animated.div
 					style={{opacity: revScale, gridRow: 1, gridColumn: 1}}
 					className="text-6xl font-bold text-center w-full"
@@ -24,7 +25,6 @@ export default function GenreText() {
 					Subjective Tags
 				</animated.div>
 			</div>
-			<p className="mt-1 text-6xl font-bold text-center w-full">Stat Text</p>
 		</div>
 	);
 }

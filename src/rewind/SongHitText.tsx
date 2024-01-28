@@ -41,7 +41,8 @@ export default function SongHitText({songHitsOnDays}: SongHitTextProps) {
 				style={{transform: `translateY(${scale2}px)`}}
 				className="text-6xl font-bold text-center w-4/5 leading-snug"
 			>
-				You've looked at {interpolatedCount.toFixed(0)} song entries on{' '}
+				You've looked at <br />
+				{interpolatedCount.toFixed(0)} song entries on{' '}
 				{interpolatedDays.toFixed(0)} days{' '}
 			</p>
 		</Animated>
