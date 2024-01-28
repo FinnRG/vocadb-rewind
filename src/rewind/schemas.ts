@@ -4,6 +4,11 @@ const artistSchema = z.object({
 	id: z.number(),
 	artistType: z.string(),
 	defaultName: z.string(),
+	mainPicture: z
+		.object({
+			urlOriginal: z.string(),
+		})
+		.optional(),
 });
 
 const tagSchema = z.object({

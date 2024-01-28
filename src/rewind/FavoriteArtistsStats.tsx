@@ -45,10 +45,12 @@ export default function FavoriteArtistsStats({
 					<p className="absolute text-4xl w-full text-center z-10">
 						{`${vb.length - ind}. ${v.defaultName}`}
 					</p>
-					<Img
-						src={`https://${baseUrl ?? 'vocadb.net'}/Artist/Picture/${v.id}`}
-						className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2  opacity-40 h-5/6 object-contain"
-					/>
+					{v.mainPicture !== undefined && (
+						<Img
+							src={v.mainPicture.urlOriginal}
+							className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2  opacity-40 h-5/6 object-contain"
+						/>
+					)}
 				</Animated>
 			))}
 		</>
