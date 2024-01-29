@@ -144,6 +144,13 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 						/>
 					</AbsoluteFill>
 				</TransitionSeries.Sequence>
+				<TransitionSeries.Transition
+					presentation={wipe({direction: 'from-left'})}
+					timing={linearTiming({durationInFrames: 20})}
+				/>
+				<TransitionSeries.Sequence durationInFrames={5 * 60}>
+					<AbsoluteFill className="bg-[#86cecb] justify-center" />
+				</TransitionSeries.Sequence>
 			</TransitionSeries>
 		</>
 	);

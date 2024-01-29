@@ -1,7 +1,7 @@
 import {Composition} from 'remotion';
 import {MyComposition, myCompSchema} from './Composition';
 import './style.css';
-import data from '../shiro.json';
+import data from '../own.json';
 import {RewindVideo} from './rewind/Rewind';
 import {rewindSchema} from './rewind/schemas';
 
@@ -25,11 +25,13 @@ export const RemotionRoot: React.FC = () => {
 			<Composition
 				id="rewind"
 				component={RewindVideo}
-				durationInFrames={60 * 30}
+				durationInFrames={61 * 30}
 				fps={30}
 				width={750}
 				height={1334}
 				schema={rewindSchema}
+				// eslint-disable-next-line @typescript-eslint/ban-ts-comment
+				// @ts-ignore
 				defaultProps={data}
 			/>
 		</>
