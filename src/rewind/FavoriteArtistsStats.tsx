@@ -45,7 +45,7 @@ export default function FavoriteArtistsStats({
 					</p>
 					{v.mainPicture !== undefined && (
 						<Img
-							src={v.mainPicture.urlOriginal}
+							src={'//wsrv.nl/?url=' + v.mainPicture.urlOriginal}
 							className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2  opacity-40 h-5/6 object-contain"
 						/>
 					)}

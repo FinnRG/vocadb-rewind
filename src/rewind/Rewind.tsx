@@ -1,6 +1,6 @@
 import {TransitionSeries, linearTiming} from '@remotion/transitions';
 import {wipe} from '@remotion/transitions/wipe';
-import React from 'react';
+import React, {useEffect} from 'react';
 import {
 	AbsoluteFill,
 	Img,
@@ -19,6 +19,7 @@ import {SongHitStats2} from './SongHitStats2';
 import FavoriteArtistsStats from './FavoriteArtistsStats';
 import LikedAudio from './LikedAudio';
 import UserStatAnimation from './UserAnimation/UserStatAnimation';
+import {preloadImage} from '@remotion/preload';
 
 export const RewindVideo: React.FC<RewindSchema> = ({
 	accountName,
@@ -34,7 +35,12 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 	const config = useVideoConfig();
 	const frame = useCurrentFrame();
 
-	// TODO: wsrv.nl
+	useEffect(() => {
+		favoriteProducers.concat(favoriteVoicebanks).forEach((a) => {
+			if (a.mainPicture === undefined) return;
+			preloadImage('//wsrv.nl/?url=' + a.mainPicture.urlOriginal);
+		});
+	}, []);
 
 	return (
 		<>
