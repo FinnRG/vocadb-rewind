@@ -25,6 +25,7 @@ const songSchema = z.object({
 			pvId: z.string(),
 		})
 	),
+	name: z.string()
 });
 
 export const rewindSchema = z.object({
