@@ -42,6 +42,14 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 		});
 	}, []);
 
+	let logo = '/logo.png';
+	if (favoriteVoicebanks.find((v) => v.artistType === 'Character') !== undefined) {
+		logo = '/touhoudb.png';
+	}
+	if (favoriteVoicebanks.find((v) => v.artistType === 'Utaite') !== undefined) {
+		logo = '/utaitedb.png';
+	}
+
 	return (
 		<>
 			<LikedAudio favoriteSongs={favoriteSongs} />
@@ -63,7 +71,7 @@ export const RewindVideo: React.FC<RewindSchema> = ({
 							]}
 						>
 							<div>2023 Wrapped</div>
-							<Img className="w-1/2 mx-auto" src={staticFile('/logo.png')} />
+							<Img className="w-1/2 mx-auto" src={staticFile(logo)} />
 						</Animated>
 						<Animated
 							className="text-[3rem] font-bold text-center"
